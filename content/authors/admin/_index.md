@@ -5,8 +5,8 @@ bio: My research interests include medical image analysis, bioimage analysis,
   artificial intelligence
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Medical Image Analysis
+  - CV
 social:
   - icon: envelope
     icon_pack: fas
