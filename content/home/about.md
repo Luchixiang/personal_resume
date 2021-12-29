@@ -7,4 +7,4 @@ title: Biography
 active: true
 author: admin
 ---
-Hi I'm Chixiang Lu
+Now, I am a first-year PhD candidate in [The University of Hong Kong](http://zhouhy.org/). I'm cosupervised by Prof. Xiaojuan Qi and Prof. Haibo Jiang.
